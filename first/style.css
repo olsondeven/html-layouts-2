@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  box-sizing: border-box;
+}
+.first-line{
+  display:flex;
+  justify-content: space-around;
+}
+.box{
+  height: 70px;
+  width: 70px;
+}
+#red{
+  background-color: rgb(179, 21, 21);
+}
+#blue{
+  background-color: rgb(16, 133, 184)
+}
+#grey{
+  background-color: rgb(77, 77, 77)
+}
